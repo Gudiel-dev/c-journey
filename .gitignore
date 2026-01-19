@@ -1,0 +1,4 @@
+#compiled binaries
+
+01-basics/*
+!01-basics/*.c
